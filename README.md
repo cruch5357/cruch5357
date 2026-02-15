@@ -63,8 +63,9 @@ Estas certificaciones respaldan mis conocimientos fundamentales en **programaci√
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/cruch5357/cruch5357/output/snake-dark.svg?v=1">
+      srcset="https://raw.githubusercontent.com/cruch5357/cruch5357/output/snake.gif?v=1">
     <img alt="Snake animation"
-      src="https://raw.githubusercontent.com/cruch5357/cruch5357/output/snake.svg?v=1">
+      src="https://raw.githubusercontent.com/cruch5357/cruch5357/output/snake.gif?v=1">
   </picture>
 </p>
+
