@@ -60,9 +60,6 @@ Estas certificaciones respaldan mis conocimientos fundamentales en **programaci�
 > Tecnologías utilizadas en contextos académicos y proyectos prácticos, con enfoque en aprendizaje progresivo y aplicación real.
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/cruch5357/pacman-contribution-graph/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/cruch5357/pacman-contribution-graph/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cruch5357/cruch5357/output/snake.svg" alt="Snake animation" />
+</p>
