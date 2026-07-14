@@ -19,17 +19,15 @@
 ---
 
 ## 👨‍💻 Sobre mí
+Soy **Alonso Cruz**, estudiante de **Ingeniería en Informática** en **Duoc UC (Chile)**, especializándome en **Ciencia de Datos y Machine Learning**.
 
-Soy **Alonso Cruz**, estudiante de **Ingeniería en Informática** en **Duoc UC (Chile)**, actualmente en proceso de formación profesional y enfocado en desarrollar una base sólida en **programación, desarrollo de software y tecnologías modernas**.
-
-Me caracterizo por un enfoque responsable, analítico y orientado a la mejora continua. Durante mi formación he trabajado tanto en proyectos académicos como personales, aplicando conceptos de **desarrollo backend, lógica de programación, bases de datos y servicios en la nube**, siempre priorizando buenas prácticas y aprendizaje real.
-
+Mis proyectos van desde un sistema de detección de intrusiones de red con Machine Learning hasta un chatbot RAG con base de datos vectorial, combinando eso con experiencia en **desarrollo backend, bases de datos y servicios en la nube**, siempre priorizando proyectos que resuelvan algo real por sobre ejercicios de práctica.
 - 🎓 Estudiante de Ingeniería en Informática (Duoc UC, 2023 – 2026)
-- 🧠 Interés en desarrollo de software, soluciones tecnológicas y automatización
+- 🤖 Machine Learning aplicado: detección de anomalías, sistemas RAG, modelos de clasificación
+- 🧠 Certificado en Azure AI Fundamentals — bases sólidas en IA aplicada
 - 🔍 En constante aprendizaje de nuevas herramientas y frameworks
 - 🏫 Liderazgo: parte de la jefatura del **Centro de Alumnos** (Colegio Notre Dame, 2020 – 2021)
-- 🤝 Buen manejo de trabajo en equipo, comunicación y coordinación de actividades
-- ⚡ Motivado por construir soluciones funcionales y seguir creciendo como profesional TI
+- ⚡ Motivado por construir soluciones funcionales, no solo demos
 
 ---
 
